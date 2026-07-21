@@ -10,7 +10,6 @@ export default function HomePage() {
         width={1200}
         height={500}
         className="mx-auto rounded-lg"
-        priority
       />
 
       <h1 className="text-4xl font-bold">
