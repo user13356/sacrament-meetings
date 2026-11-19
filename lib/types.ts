@@ -1,3 +1,4 @@
+
 export type MeetingType =
   | "testimony"
   | "regular"
@@ -29,16 +30,16 @@ export interface SacramentMeeting {
 
   announcements?: string[];
 
-  openingHymn: Hymn;
+  openingHymn?: Hymn | null;
   openingPrayer: string;
 
-  wardBusiness: WardBusinessItem[];
+  wardBusiness?: WardBusinessItem[] | null;
   stakeBusiness: boolean;
 
-  sacramentHymn: Hymn;
+  sacramentHymn?: Hymn | null;
 
-  speakers: SpeakerItem[];
+  speakers?: SpeakerItem[] | null;
 
-  closingHymn: Hymn;
+  closingHymn?: Hymn | null;
   closingPrayer: string;
 }
