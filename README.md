@@ -16,7 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see results local.
 
-Open [https://user13356-sacrament-meetings-onog-flame.vercel.app](https://user13356-sacrament-meetings-onog-flame.vercel.app) with your browser to see results online.
+Open [https://user13356-sacrament-meetings-onog-e9pwtz1cc-wdd-430-team-02.vercel.app](https://user13356-sacrament-meetings-onog-e9pwtz1cc-wdd-430-team-02.vercel.app) with your browser to see results online.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
